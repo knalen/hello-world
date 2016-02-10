@@ -1,3 +1,5 @@
 # hello-world
-FDF;DFLKDFSD
-FDFJDKFLDSFJDSFJSDLKFJDLF JDFJD LKF
+function helloWorld() {
+  return "hello world!";
+
+}
